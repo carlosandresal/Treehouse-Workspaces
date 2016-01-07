@@ -2,8 +2,9 @@
 GENERAL
 +++++++++++++*/
 
-
-
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 
 #wrapper {
   max-width: 940px;
@@ -26,6 +27,47 @@ HEADING
   text-align:center;
   margin: 0;
 }
+
+h1{
+    font-family: 'Changa One', sans-serif;
+    margin: 15px 0;
+    font-size: 1.75em;
+    font-weight: normal;
+    line-height: 0.8em;
+}
+
+h2 {
+    font-style: 0.75;
+    margin: -05px 0 0;
+    font-weight: normal;
+}
+
+
+
+/**************
+NAVIGATION
++++++++++++++*/
+
+nav{
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0 0;
+
+}
+
+
+
+/**************
+FOOTER
++++++++++++++*/
+
+footer{
+    font-style: 0.75em;
+    text-align: center;
+    padding-top: 50px;
+    color: #ccc;
+}
+
 
 
 /**************
