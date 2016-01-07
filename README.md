@@ -1,3 +1,3 @@
-#Course of basic design a web
+#Course of basic web design
 ##Treehouse
 
