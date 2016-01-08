@@ -1,0 +1,16 @@
+/* esta es la salida para una pantalla en su tamaño minimo de 480px */
+@media screen and (min-width: 480px) {
+
+}
+/**************
+TWO COLUMN LAYOUT
++++++++++++++*/
+
+#PRIMARY {
+
+}
+
+/* tablets a pantallas pequeñas*/
+@media screen and (min-width: 660px) {
+
+}
